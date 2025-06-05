@@ -10,7 +10,7 @@ eureka:
     registerWithEureka: false
     fetchRegistry: false
   instance:
-    hostname: localhost
+    hostname: ekumen-eureka-server
   server:
     renewal-percent-threshold: 0.90
 
